@@ -19,7 +19,7 @@ This section lists all the main variables
 
 <b>Section 2</b> - Extract only the measurements on the mean and standard deviation for each measurement
 * Measurements corresponding to mean and standard deviation are extracted into different dataframe. These two dataframes are then combined together using bind_cols() function
-* In the final datset, all the columns corresponding to mean comes first and then all the columns corresponding to standard deviation comes
+* In the final datset, all the columns corresponding to mean comes first and then all the columns corresponding to standard deviation comes after mean columns
 
 <b>Section 3</b> - Use descriptive activity names to name the activities in the data set
 * This section names all the activities as given in activity_labels.txt 

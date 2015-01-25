@@ -30,5 +30,6 @@ This section lists all the main variables
 
 <b>Section 5</b> - tidy data set with the average of each variable for each activity and each subject
 * This section produces tidy data as per instructions given in the project
+* columns of tidy data are rearranged so that subject Ids column is first, activities column is 2nd and rest other columns comes after these two columns
 
 

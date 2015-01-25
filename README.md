@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data-Course-Project
-This is a repo contains content related to "Getting and Cleaning data" course project.
+This repo contains files related to "Getting and Cleaning data" course project.
 
 This repo is organized as follows:-
 * <b>run_analysis.R</b> - The r script processes the data and generated the required tidy dataset for submission.

@@ -13,7 +13,7 @@ This section lists all the main variables
 
 ####run_analysis.R script is organized as follows
 <b>Section 1</b> - Merge the training and the testing data sets</b>
-* dataset containing training and testing measurements
+* dataset containing all the measurements
 * dataset containing Acticity Ids
 * dataset containing Subject Ids
 
@@ -31,5 +31,6 @@ This section lists all the main variables
 <b>Section 5</b> - tidy data set with the average of each variable for each activity and each subject
 * This section produces tidy data as per instructions given in the project
 * columns of tidy data are rearranged so that subject Ids column is first, activities column is 2nd and rest other columns comes after these two columns
+* final tidy data contains 180 rows and 88 columns. I have extracted all the columns which contain mean and standard deviation word
 
 
